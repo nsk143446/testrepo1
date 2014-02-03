@@ -1,8 +1,8 @@
-Authors
-Title
+Authors:Sat ish
+Title: The best papers ever!
 
-Introduction
-Data
+Introduction: Some introduction goes here
+Data: NO data yet. Still have to collect it.
 Analysis
 Conclusion:
 
